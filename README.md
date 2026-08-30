@@ -158,13 +158,13 @@ We could use Hyperparamete Tuning or Feature enginnering methods to improve the 
 
 ### Feedback
 
-If you have any feedback, please reach out at pradnyapatil671@gmail.com
+If you have any feedback, please reach out at contact.dhruv12@gmail.com
 
 
 
 ### 🚀 About Me
-#### Hi, I'm Pradnya! 👋
-I am an AI Enthusiast and  Data science & ML practitioner
+#### Hi, I'm Dhruv! 👋
+I am an AI Enthusiast and  Data science & Data Analyst
 
 
 [1]: https://github.com/Dhruvverma-12
