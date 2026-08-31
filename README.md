@@ -163,7 +163,8 @@ If you have any feedback, please reach out at contact.dhruv12@gmail.com
 
 
 ### 🚀 About Me
-I’m an AI Enthusiast and aspiring Data Analyst/Data Scientist with a strong interest in turning data into meaningful business insights. I enjoy working with Python, SQL, Power BI, and Machine Learning to analyze data, identify patterns, and solve real-world business problems.
+I’m **Dhruv Verma**, an **AI Enthusiast and aspiring Data Analyst/Data Scientist** with a strong interest in turning data into meaningful business insights. I enjoy working with **Python, SQL, Power BI, and Machine Learning** to analyze data, identify patterns, and solve real-world business problems.
+
 
 
 [1]: https://github.com/Dhruvverma-12
